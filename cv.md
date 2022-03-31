@@ -4,7 +4,7 @@
 
 **My contacts:**
 
-[Linkedin - Alex Vakhitov](https://linkedin.com/in/alex-vakhitov "LinkedIn") | [Telegram - vakhal](https://t.me/vakhal "Telegram") | [Email - vakhitovalex@gmail.com](mailto:vakhitovalex@gmail.com "Email")
+[Linkedin - Alex Vakhitov](https://linkedin.com/in/alex-vakhitov "LinkedIn") | [Telegram - vakhal](https://t.me/vakhal "Telegram") | [Email - vakhitovalex@gmail.com](mailto:vakhitovalex@gmail.com "Email") | Discord - vakhal
 
 **About:**
 
