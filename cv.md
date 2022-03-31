@@ -1,8 +1,8 @@
 # Alexander Vakhitov
 
-## Junior Frontend Developer
+**Junior Frontend Developer**
 
-## My contacts:
+**My contacts:**
 
   <p>
     <a href="mailto:vakhitovalex@gmail.com" target="_blank"
@@ -27,3 +27,11 @@
         width="40"
     /></a>
   </p>
+
+**About:**
+
+- Currently studying Computer Science in Kazan Federal University.
+
+- Previously QA Engineer in Appfolio (Santa Barbara, CA) and Zovio (San Diego, CA).
+
+- Passionate about learning new tools and software.
