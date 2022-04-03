@@ -1,2 +1,1 @@
-# rsschool-cv
-CV with RS School
+https://vakhitovalex.github.io/rsschool-cv/
